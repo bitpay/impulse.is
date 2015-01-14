@@ -13,5 +13,7 @@ gulp.task('default', function() {
  * Push build to gh-pages
  */
 gulp.task('deploy', function () {
-  return gulp.src('./public/**/*').pipe( deploy() );
+  return gulp.src('./public/**/*').pipe( deploy({
+    remoteUrl: 'git@github.com:bitpay/pulse.is'
+  }) );
 });
