@@ -642,5 +642,13 @@ input[type="submit"], input[type="reset"], input[type="button"], .button {
   .grid-demo .row.flush > div:last-child span {
     border-radius: 0 4px 4px 0; }
 
-#pulse--logo {
+#pulse-logo {
   width: 236px; }
+
+#bitpay-logo {
+  width: 113px;
+  height: 60px;
+  opacity: .2;
+  transition: opacity .5s; }
+  #bitpay-logo:hover {
+    opacity: .5; }

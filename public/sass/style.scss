@@ -930,14 +930,15 @@
 		}
 	}
 
-		#pulse--logo {
+		#pulse-logo {
 		width: 236px;
 	}
-
-
-
-
-
-
-
-
+		#bitpay-logo {
+		width: 113px;
+		height: 60px;
+		opacity: .2;
+		transition: opacity .5s;
+		&:hover {
+			opacity: .5;
+		}
+	}
