@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="194px" height="195px" viewBox="0 0 194 195" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>mPulse</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="95.6400496%" y1="-3.72034348%" x2="6.26327868%" y2="120.964369%" id="linearGradient-1">
+            <stop stop-color="#FF5B32" offset="0%"></stop>
+            <stop stop-color="#F7931A" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Desktop-HD" sketch:type="MSArtboardGroup" transform="translate(-623.000000, -112.000000)">
+            <g id="mPulse" sketch:type="MSLayerGroup" transform="translate(623.000000, 112.000000)">
+                <ellipse id="Oval-2" fill="#FFFFFF" sketch:type="MSShapeGroup" cx="97" cy="97.5" rx="97" ry="97.5"></ellipse>
+                <ellipse id="Oval-1" fill="url(#linearGradient-1)" sketch:type="MSShapeGroup" cx="97.25" cy="97.7512887" rx="88.25" ry="88.7048969"></ellipse>
+                <path d="M88.096,139.099041 C87.826,139.099041 87.552,139.072907 87.28,139.020136 C85.2765,138.630639 83.821,136.879157 83.8005,134.828139 L83.1595,71.8119793 L62.908,112.84993 C62.1755,114.335549 60.599,115.251245 59.013,115.247727 L7.5,114.666747 L7.5965,106.035484 L56.4135,106.585807 L83.422,51.8516184 C84.3055,50.0624432 86.29,49.122121 88.2265,49.5623787 C90.1625,50.0081648 91.542,51.7294921 91.5625,53.7247241 L92.1715,113.582185 L118.5975,49.3638607 C119.3745,47.4721597 121.361,46.3815669 123.368,46.7750849 C125.3675,47.1570437 126.825,48.8994793 126.8585,50.944969 L127.7175,105.080085 L186.482,106.035484 L186.344,114.666747 L123.422,113.644002 C121.104,113.606812 119.2345,111.726167 119.1975,109.397727 L118.603,71.9341056 L92.0615,136.433371 C91.389,138.068758 89.805,139.099041 88.096,139.099041" id="Imported-Layers" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+            </g>
+        </g>
+    </g>
+</svg>
